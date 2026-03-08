@@ -117,7 +117,7 @@ export default function Home() {
             Brand Voice Summary
           </h2>
 
-          <div className="border p-4 rounded  bg-black whitespace-pre-wrap">
+          <div className="border p-4 rounded  bg-white whitespace-pre-wrap">
             {summary}
           </div>
 
